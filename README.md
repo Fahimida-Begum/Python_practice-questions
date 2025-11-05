@@ -3,15 +3,35 @@ A repository contianing collection of Python practice questions and solutions ,e
 ## It includes
 Basics of Python
  -Data types
+ 
  -Operators
+ 
  -Flow control:If,Elif,Else
+ 
  -Loops
+ 
 Python Data Types
+
   -List
+  
   -Tuple
+  
   -Set
+  
   -Dictionary
+  
 Python Functions
+
 Data Visualiztion in Python
+
+  -NumPy
+  
+  -Pandas
+  
+  -Matplotlib
+  
+  -Seaborn
+  
+
 
   
