@@ -1,0 +1,16 @@
+customer_id,customer_name,city,email
+1,Aarav,Mumbai,customer_1@example.com
+2,Siya,Hyderabad,customer_2@example.com
+3,Kiran,Hyderabad,customer_3@example.com
+4,Priya,Delhi,customer_4@example.com
+5,Mohan,Hyderabad,customer_5@example.com
+6,Rahul,Bangalore,customer_6@example.com
+7,Ananya,Delhi,customer_7@example.com
+8,Rajesh,Delhi,customer_8@example.com
+9,Suresh,Delhi,customer_9@example.com
+10,Deepa,Mumbai,customer_10@example.com
+11,Sanjana,Bangalore,
+12,Vijay,Delhi,
+13,Neha,Bangalore,customer_13@example.com
+14,Pranav,Mumbai,customer_14@example.com
+15,Rani,Delhi,customer_15@example.com
